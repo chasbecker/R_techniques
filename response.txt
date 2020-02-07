@@ -1,0 +1,7 @@
+Variable=Value
+Name=Chuck
+Age=68
+Eyes=Black
+Hair=Reddish
+Handed=Right
+Footed=Left
